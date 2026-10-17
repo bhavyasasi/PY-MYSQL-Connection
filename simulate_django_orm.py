@@ -196,44 +196,9 @@ while True:
         break
     else:
         print("invalid choice")
-
-
-
-                    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+     
 conn.close
+print("connection closed")
 
 
 
